@@ -2,16 +2,15 @@
 
 A simple RESTful API for managing products using Go.
 
-## Clone the Repository
+## Running Manually
+
+### Clone the Repository
 
 To download the code from the GitHub repository, run the following command:
 
 ```bash
 git clone https://github.com/panosmouze/go-products-api.git
 cd go-products-api
-go mod tidy
-go build -o myapp
-./myapp
 ```
 
 ### Build and Run
